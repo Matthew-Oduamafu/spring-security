@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="HttpClientEndpointsTabState">
-    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;cfbebfa3c6447b656dd3796a2f2878e942ff349f&quot; value=&quot;###&amp;#10;GET http://localhost:8081/api/employees&amp;#10;Authorization: Basic c3VzYW46dGVzdDEyMw==&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;f389ef9ae26b2d8b849d59e834dd0836e91117ab&quot; value=&quot;###&amp;#10;DELETE http://localhost:8081/api/employees/{{employeeId}}&quot; /&gt;&#10;  &lt;entry key=&quot;07602e3edcdfb23b5043f78b0bbf93ab45e4fa1c&quot; value=&quot;###&amp;#10;POST http://localhost:8081/api/users&amp;#10;Content-Type: application/json&amp;#10;Authorization: Basic c3VzYW46ZnVuMTIz&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;username&amp;quot;: &amp;quot;bigmattie&amp;quot;,&amp;#10;  &amp;quot;password&amp;quot;: &amp;quot;passie&amp;quot;,&amp;#10;  &amp;quot;enabled&amp;quot;: true&amp;#10;}&amp;#10;&quot; /&gt;&#10;  &lt;entry key=&quot;cfbebfa3c6447b656dd3796a2f2878e942ff349f&quot; value=&quot;###&amp;#10;GET http://localhost:8081/api/employees&amp;#10;Authorization: Basic bWF0dGllOnBhc3NpZQ==&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
   </component>
 </project>
